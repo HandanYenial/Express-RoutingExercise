@@ -5,6 +5,7 @@
 
 //const array = [1,2,3,4,5,1,2,3,3,3,3,4,5];
 
+//from youtube video AdamCoder
 function mean(array){ //function mean which takes an array
     let sum = 0; // we'll initialize it to 0
     for(let num of array){ // if it is an array or string let num of array, if it is an object let num in obj
